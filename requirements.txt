@@ -1,0 +1,5 @@
+discord.py
+flask
+feedparser
+aiohttp
+beautifulsoup4
